@@ -13,3 +13,13 @@ print(my_dict)
 my_dict["age"] = 26  # Змінює вік на 26
 my_dict["email"] = "alice@example.com"  # Додає нову пару ключ-значення
 print(my_dict)
+my_dict["age"] = 26  # Змінює вік на 26
+my_dict["email"] = "alice@example.com"  # Додає нову пару ключ-значення
+print(my_dict)
+my_dict["age"] = 26  # Змінює вік на 26
+my_dict["email"] = "alice@example.com"  # Додає нову пару ключ-значення
+print(my_dict)
+del my_dict["age"]
+print(my_dict)
+print("name" in my_dict)
+print("age" in my_dict)
