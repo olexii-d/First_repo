@@ -1,2 +1,6 @@
 print("Hello World")
 print("Hello Git")
+print("name" in my_dict)
+print("age" in my_dict)
+print("name" in my_dict)
+print("age" in my_dict)
