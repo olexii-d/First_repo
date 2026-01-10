@@ -23,3 +23,5 @@ del my_dict["age"]
 print(my_dict)
 print("name" in my_dict)
 print("age" in my_dict)
+print("name" in my_dict)
+print("age" in my_dict)
